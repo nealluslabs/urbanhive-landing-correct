@@ -68,7 +68,7 @@ const DummyHeader = () => {
               </button>*/}
 
               <button 
-              onClick ={()=>{/*dispatch(setRecruiter(false));dispatch(setDemo(true));*/history.push('/login')}}
+              onClick ={()=>{/*dispatch(setRecruiter(false));dispatch(setDemo(true));*//*history.push('/login')*/}}
           style={{ 
             backgroundColor: "#fff6bd",
             color: 'black',

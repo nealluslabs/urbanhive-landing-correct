@@ -15,7 +15,7 @@ import LandingPageConfig from 'app/main/apps/urbanhive-landing-page/LandingPageC
 const routeConfigs = [
   ...appsConfigs,
   // ...pagesConfigs,
-  ...authRoleExamplesConfigs,
+  //...authRoleExamplesConfigs,
   // UserInterfaceConfig,
   // DocumentationConfig,
   LogoutConfig,

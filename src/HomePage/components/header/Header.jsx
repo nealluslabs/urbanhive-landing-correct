@@ -32,14 +32,11 @@ const DummyHeader = () => {
       
 
       <div className="headerExplainer">
-         <h1 className="text-light" style={{marginBottom:"0rem",color:"white",fontWeight:"700"}}> Thoughtful Touches Without The Thinking</h1>
+         <h1 className="text-light" style={{marginBottom:"0rem",color:"white",fontWeight:"700"}}> Seamless Technology. Strategic Procurement.</h1>
    
          
             <p className="text-light" style={{maxWidth:"50%",margin:"0 auto",marginBottom:"2rem",marginTop:"2rem",color:"white"}}>
-              AI-powered nurturing that delivers timely,
-              personal touchpoints—automatically. Stay top
-              of mind with content your prospects actually
-              care about, without the manual work
+              AI-driven procurement that ensures the right purchase, at the right time—automatically. Stay efficient and compliant with technology that takes the manual work out of sourcing and approvals.
            </p>
         
    
@@ -68,10 +65,10 @@ const DummyHeader = () => {
               </button>*/}
 
               <button 
-              onClick ={()=>{/*dispatch(setRecruiter(false));dispatch(setDemo(true));*//*history.push('/login')*/}}
+              onClick ={()=>{window.location.href = '#'}}
           style={{ 
-            backgroundColor: "#fff6bd",
-            color: 'black',
+            backgroundColor: "#B82224",
+            color: 'white',
             padding: '10px 20px',
             borderRadius: '8px',
             textTransform: 'none', 

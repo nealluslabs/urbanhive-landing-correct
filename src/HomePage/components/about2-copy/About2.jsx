@@ -1,6 +1,6 @@
 import React from 'react'
 import './about2.css'
-import about2graphic from '../../../images/AI-agent-2.jpg'
+import about2graphic from '../../../images/Procurment2.jpg'
 import about2decor from '../../../images/about2decor.png'
 import {AiOutlineArrowRight} from 'react-icons/ai'
 //import { useNavigate } from 'react-router-dom'
@@ -25,10 +25,10 @@ const DummyAbout2 = () => {
        
 
       <div className="about2Explainer">
-      <h1 style={{fontWeight:"600",color:"#000",fontSize:"2.2rem"}}> Set It and Stay Top of Mind{/*<span className="text-accent">  get the Job! </span>*/}</h1>
+      <h1 style={{fontWeight:"600",color:"#000",fontSize:"2.2rem"}}> Set It and Streamline Procurement{/*<span className="text-accent">  get the Job! </span>*/}</h1>
 
          <p style={{fontSize:"1.1rem"}}>
-         Effortless nurturing. Once set up, the system works for you—sending on your behalf with your sign-off. No writing, automatic scheduling, just nurturing made easy.
+         Effortless supply chain management. Once set up, the system works for you—handling purchase orders, vendor updates, and shipping confirmations with your sign-off. No manual chasing, no endless follow-ups—just procurement and logistics made simple.
         </p>
 
        {/*<div className = "about-btn-placement" >

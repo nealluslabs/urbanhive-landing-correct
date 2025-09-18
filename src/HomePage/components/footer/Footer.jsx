@@ -33,12 +33,12 @@ const Footer = () => {
       <div /*onClick ={()=>{navigate('/home')}}*/ style={{fontSize:"1.1rem",color:"white",fontWeight:"900",/*color:"#E88B1E",*/cursor:"pointer"}}>
         {/*Snapplicant*/}
         {/* < img src={oneRecruiter}  style={{marginBottom:"0rem", height:"7rem",width:"10rem"}}  href="#" className='footer__logo'/>*/}
-     Nurturer
+     Raymone Technologies
       </div>
        <ul>
         <li>
           <div style={{display:"flex",flexDirection:"row",justifyContent:"center",alignItems:"center",gap:"0.6rem",fontSize:"1.1rem"}}>
-           hello@nurturer.ai
+           hello@raymonetech.com
 
           </div>
           

@@ -1,7 +1,7 @@
 import React from 'react'
 import './about3.css'
 //import mobileAndWeb from 'src/assets/images/mobile&web.png'
-import officeresearch from '../../../images/5(2).png'
+import officeresearch from '../../../images/Procumrent3.png'
 import {AiOutlineArrowRight} from 'react-icons/ai'
 //import { useNavigate } from 'react-router-dom'
 
@@ -34,10 +34,10 @@ const DummyAbout3 = () => {
        
 
       <div className="aboutExplainer">
-      <h1 style={{fontWeight:"600",color:"#000",fontSize:"2.2rem"}}> Strike When the Timing’s Right{/*<span className="text-accent">  get the Job! </span>*/}</h1>
+      <h1 style={{fontWeight:"600",color:"#000",fontSize:"2.2rem"}}> Deliver When the Timing's Right{/*<span className="text-accent">  get the Job! </span>*/}</h1>
 
          <p style={{fontSize:"1.1rem"}}>
-         Be seen as precise and not noise. Our system helps you identify the best moments to re-engage, making every ask feel natural, not random—like following up after a trigger event or before a key decision window.
+         Be seen as dependable, not disruptive. Our system identifies the best moments to place orders and ship—ensuring stock arrives before shortages and deliveries align with demand. Every move feels coordinated, not random—like restocking ahead of a seasonal rush or expediting before a critical deadline.
         </p>
 
        {/*<div className = "about-btn-placement" >

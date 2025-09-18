@@ -7,7 +7,7 @@ import {RiServiceLine} from "react-icons/ri"
 import {BiMessageSquareDetail} from "react-icons/bi"
 import {useState} from 'react'
 //import navIcon from 'src/images/navicon.svg'
-import navIcon from '../../../images/Group-2.png'
+import navIcon from '../../../images/Cooler.png'
 import { FaRegArrowAltCircleLeft } from "react-icons/fa";
 import { FaWpforms } from "react-icons/fa";
 

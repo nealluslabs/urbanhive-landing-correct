@@ -41,7 +41,7 @@ export default function HamburgerMenu() {
             aria-haspopup="true"
             aria-expanded={open ? 'true' : undefined}
           >
-            <Avatar sx={{ width: 35, height: 35 ,backgroundColor:"#27374C"}}><MenuIcon/></Avatar>
+            <Avatar sx={{ width: 35, height: 35 ,backgroundColor:"#000000"}}><MenuIcon/></Avatar>
           </IconButton>
         </Tooltip>
       </Box>

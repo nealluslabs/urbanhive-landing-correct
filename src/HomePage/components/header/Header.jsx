@@ -67,8 +67,8 @@ const DummyHeader = () => {
               <button 
               onClick ={()=>{window.location.href = '#'}}
           style={{ 
-            backgroundColor: "#B82224",
-            color: 'white',
+            backgroundColor: "#FFA500",
+            color: 'black',
             padding: '10px 20px',
             borderRadius: '8px',
             textTransform: 'none', 
